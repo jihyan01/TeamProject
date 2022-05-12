@@ -1,0 +1,14 @@
+C:\Users\david\source\repos\Teamproject1\bin\Debug\Teamproject1.exe.config
+C:\Users\david\source\repos\Teamproject1\bin\Debug\Teamproject1.exe
+C:\Users\david\source\repos\Teamproject1\bin\Debug\Teamproject1.pdb
+C:\Users\david\source\repos\Teamproject1\obj\Debug\Teamproject1.csprojAssemblyReference.cache
+C:\Users\david\source\repos\Teamproject1\obj\Debug\Teamproject1.Properties.Resources.resources
+C:\Users\david\source\repos\Teamproject1\obj\Debug\Teamproject1.csproj.GenerateResource.cache
+C:\Users\david\source\repos\Teamproject1\obj\Debug\Teamproject1.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Teamproject1\obj\Debug\Teamproject1.exe
+C:\Users\david\source\repos\Teamproject1\obj\Debug\Teamproject1.pdb
+C:\Users\david\source\repos\Teamproject1\obj\Debug\Teamproject1.graghform.resources
+C:\Users\david\source\repos\Teamproject1\obj\Debug\Teamproject1.mainform.resources
+C:\Users\david\source\repos\Teamproject1\obj\Debug\Teamproject1.loginform.resources
+C:\Users\david\source\repos\Teamproject1\obj\Debug\Teamproject1.profileform.resources
+C:\Users\david\source\repos\Teamproject1\obj\Debug\Teamproject1.showfashionform.resources
